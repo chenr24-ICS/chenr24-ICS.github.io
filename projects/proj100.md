@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: "https://media.discordapp.net/attachments/818577172678574131/1418059843075444736/IMG_5720.jpg?ex=68ccbea4&is=68cb6d24&hm=5639dc27f770eb3c0cb919402d43f033b3c6ea7b47a3f5f6c32cdec77997ae7f&=&format=webp&width=600&height=600"
+image: "img/IMG_5720.jpg"
 title: "Project 100"
 date: 2023
 published: true
