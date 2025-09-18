@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image:  >-
-  data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAWwAAACKCAMAAAC5K4CgAAAAq1BMVEX///90hXPy…QmCC
+image: >-
+  data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAArlBMVEX…
 title: "Intelligence Internship Landscape Survey"
 date: 2025
 published: true
