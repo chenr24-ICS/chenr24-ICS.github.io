@@ -10,7 +10,7 @@ labels:
   - Programming
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/download.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/softwareeng.png">
 
 ## Why Software Engineering is so important
 I believe software engineering is a very unique form of art. The ability to create a website or an app for users to be able to look and interact with is something I have always admired. 
