@@ -57,36 +57,19 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "AOK Foundation and Kalani Highschool",
+      "website": "https://www.iamevanknight.com/things-i-made/kalani3",
+      "position": "Volunteer",
+      "startDate": "2024-01-05",
+      "endDate": "2025-05-05",
+      "summary": "Volunteer for construction process",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
+        "Organized materials for preperation",
+        "Particpiated in the formation of roofing, walls, as well as painting"
       ]
     }
   ],
   "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
     {
       "title": "",
       "date": "",
