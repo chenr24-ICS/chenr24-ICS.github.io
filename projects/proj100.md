@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <img class="img-fluid" src="https://cdn.discordapp.com/attachments/818577172678574131/1418059843075444736/IMG_5720.jpg?ex=68ccbea4&is=68cb6d24&hm=5639dc27f770eb3c0cb919402d43f033b3c6ea7b47a3f5f6c32cdec77997ae7f" alt="Vacation Home Page">
+image: <img class="img-fluid" src="https://cdn.discordapp.com/attachments/818577172678574131/1418059843075444736/IMG_5720.jpg?ex=68ccbea4&is=68cb6d24&hm=5639dc27f770eb3c0cb919402d43f033b3c6ea7b47a3f5f6c32cdec77997ae7f">
 title: "Project 100"
 date: 2023
 published: true
