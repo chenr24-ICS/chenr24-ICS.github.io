@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://images.squarespace-cdn.com/content/v1/637abeb8f98aeb7914c6fbe9/1707702774408-P0DZL3T82MBAAUSXNO0W/24.2.10+Kalani+3+9.jpeg?format=300w
+image: "https://images.squarespace-cdn.com/content/v1/637abeb8f98aeb7914c6fbe9/1707702774408-P0DZL3T82MBAAUSXNO0W/24.2.10+Kalani+3+9.jpeg?format=300x300"
 title: "Learning Opportunity Facility"
 date: 2024
 published: true
