@@ -1,7 +1,8 @@
 ---
 layout: project
 type: project
-image: <img class="img-fluid" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAWwAAACKCAMAAAC5K4CgAAAAq1BMVEX///90hXPy..." alt="Vacation Home Page">
+image:  >-
+  data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAWwAAACKCAMAAAC5K4CgAAAAq1BMVEX///90hXPy…QmCC
 title: "Intelligence Internship Landscape Survey"
 date: 2025
 published: true
