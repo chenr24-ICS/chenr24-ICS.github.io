@@ -1,8 +1,7 @@
 ---
 layout: project
 type: project
-image: >-
-  data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAArlBMVEX…
+image: "img/UHCSS.png**
 title: "Intelligence Internship Landscape Survey"
 date: 2025
 published: true
