@@ -10,7 +10,7 @@ labels:
   - Reflection
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/download.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/download.jpeg">
 
 ## What is ESLint? 
 ESLint is a grammar checker extension in Visual Studio code for proper and neat typescript organization. Basically a structure checker for proper coding etiquette. 
