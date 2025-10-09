@@ -11,7 +11,7 @@ labels:
   - Wesbite Developement 
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/download.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/bootstrap-5.0-illustration.png">
 
 ## My experience with UI Frameworks
 I had a great experience learning and applying css and html into my programming arsena. Personally I believe that HTML is a very sophisticated and flexible language that allowed me to create whatever I wanted to envision. Looking at websites and trying to imitate them was also a great experience as I was able to work on my analytical skills and application of basic html knowledge. Whats more the cherry on top was the use of Bootstrap5 and making websites that pop out with functions and tools that allow for even better flexibility. By recreating websites such as the CDC guidelines for handwashing or Banyan's in Kailua, I was able to gain a sense of direction in which I can apply these skills to outside of school, leading to my next point. 
