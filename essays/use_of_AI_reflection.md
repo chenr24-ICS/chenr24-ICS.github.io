@@ -12,11 +12,11 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/MVC.png">
 
-# Introduction 
+# **Introduction** 
 
 As LLMs like ChatGPT and Co-Pilot evolve, becoming more prominent and accessible, the nature of education has shifted drastically. When it comes to software engineering, an average AI language model is on par to that of a software engineer with 10 years of experience, and with drastically faster speeds and processing time. More and more students are now utilizing AI to help develop websites and code for them, and use it to learn as it is a quick and easy resource to access. Personally in 314, I have utilized AI in assistance for coding, debugging, and learning/understanding a topic. The most common AI tools I have used include ChatGPT, Claude, along with Co-Pilot.
 
-# Honest AI Usage
+# **Honest AI Usage**
 
 Throughout ICS 314, I used AI as a major support tool across almost every assignment, practice activity, and understanding of concepts. The course moved quickly and introduced multiple concepts like TypeScript, React, Next.js, CSS, and ESLint, and I had to utilize AI to accelerate my understanding and clarify errors in my code. Furthermore, AI was used to break down unfamiliar topics and give examples on how to utilize extensions of the tools we use in the class. Below is a detailed explanation of how I utilized AI across ICS314.
 
