@@ -78,3 +78,12 @@ AI was extremely helpful for debugging, and I utilized it to:
 - Summarize long texts
 - Generate similar practice WODs for extra practice
 - Understand design patterns and different approaches to a solution
+
+# Impact on Learning and Understand
+
+The incoporporation of AI significantly impacted my learning throughout ICS 314. In many examples, mmy comprehension of the topic were always strengthened by AI, whom provides explanations that are direct, simplified, and relevant to my work. Concepts like React, TypeScript, and Next.js with Prisma were clear to me after AI broke the topics down into smaller digestible explanatoins. This enhanced my understanding and reduced the load that came with the introduction of many tools. 
+
+Although AI enhanced my understanding of the topic, my heavy reliance on away also came with challenges at times. AI sometimes made learning feel too assisted and made me feel that I understood the solution but not the underlying reasoning until I revisited the material independently. Even so, the overall effect on comprehension and skill development was positive, especially in areas where documentation alone felt overwhelming.
+
+# Practical Applications 
+
