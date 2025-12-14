@@ -10,59 +10,59 @@ labels:
   - AI technologies
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/MVC.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/AI.jpeg">
 
 # **Introduction** 
 
-As LLMs like ChatGPT and Co-Pilot evolve, becoming more prominent and accessible, the nature of education has shifted drastically. When it comes to software engineering, an average AI language model is on par to that of a software engineer with 10 years of experience, and with drastically faster speeds and processing time. More and more students are now utilizing AI to help develop websites and code for them, and use it to learn as it is a quick and easy resource to access. Personally in 314, I have utilized AI in assistance for coding, debugging, and learning/understanding a topic. The most common AI tools I have used include ChatGPT, Claude, along with Co-Pilot.
+As LLMs like ChatGPT and Co-Pilot evolve and become more prominent and accessible, the nature of education has shifted drastically. In software engineering, an average AI language model can be comparable to a software engineer with many years of experience and operates with much faster processing speeds. More students now use AI to help develop websites and write code, and they use it to learn because it is a quick and easy resource to access. Personally, in ICS 314, I have used AI to assist with coding, debugging, and learning new topics. The most common AI tools I have used include ChatGPT, Claude, and Co-Pilot.
 
 # **Honest AI Usage**
 
-Throughout ICS 314, I used AI as a major support tool across almost every assignment, practice activity, and understanding of concepts. The course moved quickly and introduced multiple concepts like TypeScript, React, Next.js, CSS, and ESLint, and I had to utilize AI to accelerate my understanding and clarify errors in my code. Furthermore, AI was used to break down unfamiliar topics and give examples on how to utilize extensions of the tools we use in the class. Below is a detailed explanation of how I utilized AI across ICS314.
+Throughout ICS 314, I used AI as a major support tool across almost every assignment, practice activity, and topic I was trying to understand. The course moved quickly and introduced multiple concepts like TypeScript, React, Next.js, CSS, and ESLint, and I used AI to accelerate my understanding and clarify errors in my code. Furthermore, AI helped break down unfamiliar topics and provided examples on how to use extensions of tools we used in class. Below is a detailed explanation of how I used AI across ICS 314.
 
 ### Experience WODs
 
-I used AI extensively while checking for any errors throughout my Experience WODs. I would first practice the experience WOD completely on my own, then watch the answer videos to check my answer, and then utilize AI to consistently check for my mistakes while I'm on my next attempt.  
+I used AI extensively while checking for errors throughout my Experience WODs. I would first complete the WOD on my own, then watch the answer videos to check my solution, and finally use AI to identify mistakes and guide my next attempt.
 
 ### In-class Practice WODs
 
-For the practice WODs, I frequently used AI both during and after the exercises. I utilized AI to correct my syntax and any ESLint errors I might have. After the class exercises are over, if I hadn't finished or my WOD code is not functional, I would use AI to review my work and guide me through the correction of my code. 
+For the practice WODs, I frequently used AI both during and after the exercises. I used AI to correct my syntax and resolve any ESLint errors. If I hadn't finished or my WOD code was not functional after class, I used AI to review my work and guide me through the corrections.
 
 ### In-class WODs
 
-In the in-class WODs, I would rely on AI to correct any mistakes that may occur after an error pops up. I would first attempt to solve the WOD on my own, but when I run into an error and I can't find a solution or have missed a few key details, I would use AI to scan through my code and look for the errors and offer solutions. 
+During in-class WODs, I relied on AI to help correct mistakes that appeared while coding. I always attempted to solve the WOD on my own first, but when I ran into an error I could not fix or missed key details, I used AI to scan my code and suggest solutions.
 
-### Essays 
+### Essays
 
-For my essays in the GitHub portfolio, I would only use AI to enhance my writing through grammar correction and correction of any incoherent paragraphs that don't align. I would also ask AI for formatting suggestions to make my essays neat and organized.
+For my essays in the GitHub portfolio, I used AI only to enhance my writing through grammar correction and to improve incoherent paragraphs. I also asked AI for formatting suggestions to make my essays neat and organized.
 
 ### Final Project
 
-AI was one of the many tools I used during the final project. One example being asking AI to explain ESLint errors and typescript errors, along with database troubleshooting in Prisma. Another was to use AI for suggestions and ideas on the approach to the final project, and what elements to utilize to make the UI more user friendly. One example of that would be the star button on the review page for the app, and the text box formatting and button. 
+AI was one of the tools I used during the final project. For example, I asked AI to explain ESLint and TypeScript errors and to help troubleshoot the Prisma database. I also used AI for suggestions on project approach and UI elements to improve usability — for instance, the star button on the review page and formatting for text boxes and buttons.
 
-### Learning a Concept/Tutorials 
+### Learning a Concept/Tutorials
 
-This is where I used AI the most. When paragraphs of text overwhelm me, I tend to rely on AI to simplify the instructions and break them down step by step for easier understanding. Sometimes the formatting of TypeScript would also throw me off because of my familiarity with other programming languages like C; therefore, many times I would ask AI for correct syntax rules of TypeScript.
+This is where I used AI the most. When long paragraphs of text overwhelm me, I rely on AI to simplify instructions and break them down step by step for easier understanding. Sometimes TypeScript formatting threw me off because of my familiarity with other languages like C; therefore, I often asked AI for correct TypeScript syntax rules.
 
 ### Answering a Question in Class or Discord
 
-I never really used AI to answer questions in class or discord, because I felt that if I am not 110% familiar with the topic, I shouldn't try to teach and pretend I can. I believe that teaching a subject requires understanding beyond the basics, and if I rely on AI to produce an answer then I shouldn't be answering questions in the first place. 
+I did not use AI to answer questions in class or on Discord because I felt that if I was not fully familiar with a topic, I should not attempt to teach it. Teaching requires understanding beyond the basics, and if I relied on AI to produce an answer I should not present it as my own knowledge.
 
 ### Asking or Answering a Smart-Question
 
-Like previously mentioned, I wouldn't want to teach and pretend I understand a subject if I rely on AI, therefore all my questions and answers aren't AI backed. 
+As mentioned above, I avoided using AI when asking or answering smart questions; therefore, my questions and answers were not AI-backed.
 
 ### Coding Examples
 
-I often use AI to generate code snippets after practice WODs to make sure I fully understand the concept. I often generate the snippet and trace through the code with AI to solidify the concept. 
+I often used AI to generate code snippets after practice WODs to ensure I fully understood a concept. I generated snippets and traced through the code with AI to solidify my understanding.
 
 ### Writing Code
 
-I often used AI to help draft or refine code, like asking for suggested approaches, or fixing logic issues. However even while writing the code I would always use AI's explanation to help myself review, edit, and rewrite the code rather than a copy paste.
+I used AI to draft or refine code, ask for suggested approaches, and fix logic issues. Even while writing code, I used AI explanations to help me review, edit, and rewrite rather than copying and pasting.
 
 ### Documenting Code
 
-AI helped me write clearer comments and documentation. Often I would ask it to generate headers that would look coherent and be understanding of a potential viewer for my code. It would provide documenting paragraphs that clarified a function's purpose and even rephrase my drafted explanations. 
+AI helped me write clearer comments and documentation. Often I asked it to generate coherent headers and documentation paragraphs that clarified a function's purpose and rephrased my drafted explanations.
 
 ### Quality Assurance
 
@@ -79,11 +79,37 @@ AI was extremely helpful for debugging, and I utilized it to:
 - Generate similar practice WODs for extra practice
 - Understand design patterns and different approaches to a solution
 
-# Impact on Learning and Understand
+# Impact on Learning and Understanding
 
-The incoporporation of AI significantly impacted my learning throughout ICS 314. In many examples, mmy comprehension of the topic were always strengthened by AI, whom provides explanations that are direct, simplified, and relevant to my work. Concepts like React, TypeScript, and Next.js with Prisma were clear to me after AI broke the topics down into smaller digestible explanatoins. This enhanced my understanding and reduced the load that came with the introduction of many tools. 
+The incorporation of AI significantly impacted my learning throughout ICS 314. In many cases, my comprehension was strengthened by AI, which provided explanations that were direct, simplified, and relevant to my work. Concepts like React, TypeScript, and Next.js with Prisma became clearer after AI broke the topics into smaller, digestible explanations. This enhanced my understanding and reduced the cognitive load that came with learning many new tools.
 
-Although AI enhanced my understanding of the topic, my heavy reliance on away also came with challenges at times. AI sometimes made learning feel too assisted and made me feel that I understood the solution but not the underlying reasoning until I revisited the material independently. Even so, the overall effect on comprehension and skill development was positive, especially in areas where documentation alone felt overwhelming.
+Although AI enhanced my understanding, heavy reliance on it also presented challenges. AI sometimes made learning feel overly assisted, giving the impression that I understood a solution without understanding the underlying reasoning until I revisited the material independently. Even so, the overall effect on comprehension and skill development was positive, especially where documentation alone felt overwhelming.
 
-# Practical Applications 
+# Practical Applications
 
+AI is widely regarded as an important implementation tool across many fields. Beyond computer science, in finance LLMs are tracking economic trends and making predictions; AI is also used in social media marketing and other domains. The effectiveness of AI in real-world software engineering comes from its speed and relatively low operational cost. This is why AI is commonly used across many professional domains and projects.
+
+# Challenges and Opportunities
+
+One of the main challenges of AI is the risk of overreliance: because AI can provide quick, polished information, it can discourage deeper investigation and understanding of the material. Another limitation is occasional inaccuracies or hallucinations, such as misreading a line or failing to account for new framework versions.
+
+Despite these challenges, there are clear opportunities to improve AI for software engineering education. Tutorials and activities can use AI to explain concepts and, rather than giving answers immediately, guide users toward a deeper understanding. One potential future feature is real-time feedback where an LLM analyzes typing behavior and coding habits to generate a concise "summary review" with suggestions for improvement.
+
+# Traditional vs AI-Enhanced Learning
+
+Traditional learning methods like lectures, readings, and daily tasks build foundational understanding and problem-solving skills. These methods promote long-term retention of material, discipline, and critical thinking.
+
+AI-enhanced approaches offer immediacy and adaptability. AI can explain concepts in multiple ways, show alternative solutions, and provide problem-specific explanations. Engagement is often higher because feedback is instant, which traditional methods do not necessarily provide.
+
+I believe the most effective learning combines both approaches. As technology evolves, people should adapt to use those technologies. Traditional learning methods exist because they work; thus, it is important to use the best of both worlds to optimize learning.
+
+
+# Future Considerations
+
+AI is set to play a major role in software engineering and education moving forward. LLMs will likely become smarter, faster, and more accurate with future development and investment. It is important for institutions to define boundaries and limitations to ensure AI does not encourage poor learning habits. The end goal should be for students to use AI as a standard tool rather than a shortcut to learning.
+
+# Conclusion
+
+Overall, AI significantly shaped my experience in ICS 314. It helped me understand concepts more quickly, debug with clearer explanations, and code with greater accuracy. Although there are challenges with accuracy and the temptation to rely on AI too heavily, the benefits outweigh the drawbacks when AI is used properly.
+
+Moving forward, I believe AI should remain integrated in ICS 314, but with clear guidelines on when and how to use it. It all comes down to balancing traditional learning methods with newly emerged AI technologies used as tools that elevate learning.
