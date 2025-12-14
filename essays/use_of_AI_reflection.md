@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "ICS311 and the use of AI"
+title: "Machine vs Organic: Use of AI with the human brain"
 date: 2025-12-10
 published: true
 labels:
