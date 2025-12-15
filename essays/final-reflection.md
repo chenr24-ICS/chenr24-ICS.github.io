@@ -16,7 +16,7 @@ labels:
 
 # Introduction
 
-What a ride. If you had asked me four months ago whether I wanted to be a software engineer, I would have said, "maybe — let's see how that goes." As I near the end of ICS 314, I realize I have learned a great deal about modern web application development. More importantly, I discovered that the foundational concepts of software engineering are the deeper value of this class. In addition to building projects with React, Next.js, TypeScript, and PostgreSQL, I deeply connected with broader ideas that apply to software systems of any scale. Three topics in particular — functional programming, coding standards, and design patterns — were the most important concepts I took away from the course.
+What a ride. If you had asked me four months ago whether I wanted to be a software engineer, I would have said, "maybe let's see how that goes." As I near the end of ICS 314, I realize I have learned a great deal about modern web application development. More importantly, I discovered that the foundational concepts of software engineering are the deeper value of this class. In addition to building projects with React, Next.js, TypeScript, and PostgreSQL, I deeply connected with broader ideas that apply to software systems of any scale. Three topics in particular functional programming, coding standards, and design patterns were the most important concepts I took away from the course.
 
 # Functional Programming
 

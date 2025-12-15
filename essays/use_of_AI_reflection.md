@@ -38,7 +38,7 @@ For my essays in the GitHub portfolio, I used AI only to enhance my writing thro
 
 ### Final Project
 
-AI was one of the tools I used during the final project. For example, I asked AI to explain ESLint and TypeScript errors and to help troubleshoot the Prisma database. I also used AI for suggestions on project approach and UI elements to improve usability — for instance, the star button on the review page and formatting for text boxes and buttons.
+AI was one of the tools I used during the final project. For example, I asked AI to explain ESLint and TypeScript errors and to help troubleshoot the Prisma database. I also used AI for suggestions on project approach and UI elements to improve usability for instance, the star button on the review page and formatting for text boxes and buttons.
 
 ### Learning a Concept/Tutorials
 

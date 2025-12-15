@@ -26,8 +26,8 @@ I believe that TypeScript is a great programming language from a software engine
 It is also very convenient since it integrates directly with JavaScript. FreeCodeCamp gave me a wonderful introduction to TypeScript, and I am super excited to add a new language to my arsenal.
 
 Looking ahead, I want to use TypeScript for app development, possibly refining my professional portfolio with projects that reflect my skills and passion.
-I also want to build something that combines my photography hobby with TypeScript—an app that creates a map of all the places I’ve been and the photos I’ve taken there.
+I also want to build something that combines my photography hobby with TypeScript an app that creates a map of all the places I’ve been and the photos I’ve taken there.
 Another project idea I have is a bathroom tracker for Honolulu: from private restrooms in restaurants to public restrooms at beaches, I want to create an app that tracks them all.
-The reason is simple—during emergencies, I want to take quick action, and TypeScript seems like a great language to use because of its readability and maintainability.
+The reason is simple during emergencies, I want to take quick action, and TypeScript seems like a great language to use because of its readability and maintainability.
 
 AI used for Grammar check
