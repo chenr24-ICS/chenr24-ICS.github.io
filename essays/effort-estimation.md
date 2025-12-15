@@ -13,7 +13,7 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/effort.jpeg">
 
- # Guess, Test, and Show
+# Guess, Test, and Show
 
 Effort estimation has always been a struggle for me, both in software engineering and for outside tasks. This is largely due to procrastination and underestimating how long it takes to complete a task. Through ICS 314 I learned, the hard way, the importance of effort estimation and progress tracking. I confronted these tendencies directly and developed an approach to both estimating effort and tracking actual time spent. Although the estimates may not always be precise, the process of documentation and estimation gave me a better understanding of my workflow and work habits and revealed areas where I can improve for future projects.
 
