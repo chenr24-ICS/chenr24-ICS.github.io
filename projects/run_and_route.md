@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: "img/M2/M2Profile.png"
+image: "img/M2/therunhub.png"
 title: "UH Run and Route Hub"
 date: 2025
 published: true
