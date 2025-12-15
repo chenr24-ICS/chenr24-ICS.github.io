@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Pattern Design Reflection"
+title: "Thank you - ICS 314"
 date: 2025-12-14
 published: true
 labels:
